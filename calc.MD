@@ -1,4 +1,4 @@
-content = """# Estimating Password Cracking Time ⏱️
+Estimating Password Cracking Time ⏱️
 
 The estimation of how long it might take a hacker to crack a password involves a few key steps and assumptions. Here's a breakdown of the calculations used in the scripts:
 
@@ -114,4 +114,3 @@ For stronger hashes like bcrypt, or online attacks, this rate would be drastical
 ---
 
 This explanation outlines the logic used to estimate password cracking time in the scripts.
-"""
